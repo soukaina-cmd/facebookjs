@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(230, 235, 236)
+    
+}
+/* facebbok */
+#fa{
+    color:rgb(38, 150, 224);
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+/* tous les div  */
+#contenu{
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+}
+#cree{
+    text-align: center;
+}
+#rapi{
+    text-align: center;
+    color: rgb(194, 185, 185);
+}
+input{
+    margin-top: 10px;
+}
+.da{
+    margin-top: 10px;
+    font-size: 13px;
+    color:grey;
+    margin-bottom: 10px;
+}
+#p{
+    font-size: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+#vo{
+    text-align: center;
+    color: rgb(52, 163, 197);
+}
+.di{
+    border: 1px solid black;
+    padding:5px 25px;
+    border-radius: 10px;
+}
